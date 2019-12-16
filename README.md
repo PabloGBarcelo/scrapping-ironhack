@@ -1,5 +1,5 @@
 # scrapping-ironhack
-Example of how to scrapping Ironhack website - Only for student purposes
+Example of how to scrap Ironhack website - Only for student purposes
 
 How to use:
 - python3 ironHack.py
